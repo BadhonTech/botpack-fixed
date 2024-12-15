@@ -26,11 +26,11 @@
     "resend.js"
   ],
   "eventDisabled": [],
-  "OWNER": "OWNER OF BOT",
-  "BOTNAME": "BOTNAME HERE",
-  "PREFIX": "?",
+  "OWNER": "BADHON",
+  "BOTNAME": "Pika - Bot",
+  "PREFIX": ".",
   "ADMINBOT": [
-    "UID HERE ADMIN",
+    "100004819114915",
     ""
   ],
   "DESIGN": {
